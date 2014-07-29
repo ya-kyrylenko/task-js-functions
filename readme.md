@@ -1,5 +1,2 @@
-# task-name
+# task-js-functions
 
-Description
-
-blabla
